@@ -1,3 +1,5 @@
+# Disable the Firefox Tab Bar
+
 As a user of the Tree Style Tab extension, I want to disable the default tab bar in Firefox.
 
 - Figure out your profile folder (Help -> Troubleshooting Information -> Profile Folder)
