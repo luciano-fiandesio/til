@@ -2,7 +2,7 @@ As a user of the Tree Style Tab extension, I want to disable the default tab bar
 
 - Figure out your profile folder (Help -> Troubleshooting Information -> Profile Folder)
 - Create a folder `chrome` in the Firefox profile folder
-- Add a `userChrome.css` to the `chrome` folder.
+- Add a `userChrome.css` file to the `chrome` folder.
 
     ```
     #TabsToolbar {
