@@ -9,5 +9,5 @@ A collection of software engineering tips that I learn every day.
 
 ### firefox
 
-- [Disable Tab Bar](firefox/disable-tab-bar.md)
+- [Disable The Tab Bar](firefox/disable-the-tab-bar.md)
 
