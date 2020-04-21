@@ -13,5 +13,5 @@ A collection of software engineering tips that I learn every day.
 
 ### linux
 
-- [Grant_access_to_file_and_folder](linux/grant_access_to_file_and_folder.md)
+- [Grant Access To Files And Folders](linux/grant-access-to-files-and-folders.md)
 
