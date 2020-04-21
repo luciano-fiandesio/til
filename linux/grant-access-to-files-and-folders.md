@@ -1,4 +1,4 @@
-# Grant access to file and folders for multiple users
+# Grant access to files and folders to multiple users
 
 In Linux, files and directories have permission sets such as _owner_ (owner or user of the file), _group_ (associated group) and others. However, these permission sets have limitations and doesn’t allow users to set different permissions to different users.
 
