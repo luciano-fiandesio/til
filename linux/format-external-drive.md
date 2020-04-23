@@ -11,7 +11,7 @@ The command should show a list of disks. Identify the drive to partition, e.g. `
 Use *gpt* (https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive/)
 
 ```
-sudo parted /dev/sdb mklabel gpt`
+sudo parted /dev/sdb mklabel gpt
 
 sudo parted -a opt /dev/sdb mkpart primary ext4 0% 100%
 ```
