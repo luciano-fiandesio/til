@@ -13,7 +13,7 @@ A collection of software engineering tips that I learn every day.
 
 ### java
 
-- [Jooq_as_sql_builder](java/jooq_as_sql_builder.md)
+- [Jooq As Sql Builder](java/jooq-as-sql-builder.md)
 
 ### linux
 
