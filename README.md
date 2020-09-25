@@ -17,10 +17,11 @@ A collection of software engineering tips that I learn every day.
 
 ### linux
 
-- [Format External Drive](linux/format-external-drive.md)
 - [Grant Access To Files And Folders](linux/grant-access-to-files-and-folders.md)
+- [Format External Drive](linux/format-external-drive.md)
 
 ### postgresql
 
 - [Enable Sql Logging](postgresql/enable-sql-logging.md)
+- [Extract Query Insigh](postgresql/extract-query-insigh.md)
 
