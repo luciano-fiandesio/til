@@ -22,6 +22,6 @@ A collection of software engineering tips that I learn every day.
 
 ### postgresql
 
+- [Extract Query Insight](postgresql/extract-query-insight.md)
 - [Enable Sql Logging](postgresql/enable-sql-logging.md)
-- [Extract Query Insigh](postgresql/extract-query-insigh.md)
 
