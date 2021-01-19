@@ -20,6 +20,10 @@ A collection of software engineering tips that I learn every day.
 - [Grant Access To Files And Folders](linux/grant-access-to-files-and-folders.md)
 - [Format External Drive](linux/format-external-drive.md)
 
+### misc
+
+- [Download Vimeo Embedded Video](misc/download-vimeo-embedded-video.md)
+
 ### postgresql
 
 - [Extract Query Insight](postgresql/extract-query-insight.md)
